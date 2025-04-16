@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Ahmed Omar Sakib
-#### I am a Business Analys
+#### I am a Business Analyst
 I'm Ahmed Omar Sakib, a programmer from Bangladesh with a passion for learning new languages and frameworks. I’m currently pursuing my Master’s degree at La Trobe University. Feel free to check out my [LinkedIn profile](https://www.linkedin.com/in/ahmed-omar-sakib/)
 to learn more about me.
 
