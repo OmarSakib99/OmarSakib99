@@ -22,6 +22,4 @@ Here’s a snapshot of the technologies I use most and my recent GitHub activity
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/OmarSakib99)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarSakib99)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarSakib99)](https://github.com/anuraghazra/github-readme-stats)
